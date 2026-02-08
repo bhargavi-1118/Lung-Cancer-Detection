@@ -1,8 +1,14 @@
 # Lung Cancer Detection System
 
 ## Project Description
-This project detects lung cancer from CT scan images using deep learning techniques. 
-The system processes medical images and predicts possible cancer presence.
+A deep learning–based application for detecting lung cancer from CT scan images using a Convolutional Neural Network (CNN). The system preprocesses medical images and predicts cancer presence through a simple user interface.
+## Tech Stack
+- Python
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+- Deep Learning (CNN)
+- Medical Image Processing
 
 ## Features
 - Image preprocessing and augmentation
@@ -33,3 +39,5 @@ The system processes medical images and predicts possible cancer presence.
 ## Sample Outputs
 See uploaded result images in repository.
 
+## Output Example
+![Result](result.png)
