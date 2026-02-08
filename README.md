@@ -40,4 +40,13 @@ A deep learning–based application for detecting lung cancer from CT scan image
 See uploaded result images in repository.
 
 ## Output Example
+
+### Application Start
+![Start Screen](start.png)
+
+### Image Selection
+![Select Image](select_image.png)
+
+### Prediction Result
 ![Result](result.png)
+
