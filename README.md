@@ -46,6 +46,8 @@ See uploaded result images in repository.
 
 ### Image Selection
 ![Select Image](select_image.png)
+### Processed Image Example
+![Processed Image](sample processed image.png)
 
 ### Prediction Result
 ![Result](result.png)
